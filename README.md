@@ -1,3 +1,4 @@
+![logo](https://github.com/farhanik/farhanik/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Farhan Hossain</h1>
 <h3 align="center">A Computer Science student passionate about Full-Stack Dev</h3>
 
