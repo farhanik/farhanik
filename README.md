@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farhanik/Projects](https://github.com/farhanik/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/farhanik?tab=repositories](https://github.com/farhanik?tab=repositories)
 
 - 💬 Ask me about **C, C++, JAVA, DSA, OOP**
 
